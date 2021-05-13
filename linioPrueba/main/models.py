@@ -1,4 +1,6 @@
-from django.db import models
+from django.db import models 
+
+#yerethhhhhhhhhhhh
 
 # Create your models here.
 class Proveedor(models.Model):
